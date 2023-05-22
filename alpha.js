@@ -266,7 +266,7 @@ async function startalpha() {
                 inline_keyboard: [
                     [{
                         text: 'Script',
-                        url: "https://github.com/ZurrBot/telebot"
+                        url: "https://github.com/CrazyBotzZz/telebot"
                     }, {
                         text: 'Owner',
                         url: OWNER[0]
@@ -285,7 +285,7 @@ async function startalpha() {
                 inline_keyboard: [
                     [{
                         text: 'Script',
-                        url: "https://github.com/ZurrBot/telebot"
+                        url: "https://github.com/CrazyBotzZz/telebot"
                     }, {
                         text: 'Owner',
                         url: OWNER[0]
@@ -308,7 +308,7 @@ async function startalpha() {
             "Username": "@" + getme.username,
             "ID": getme.id,
             "Link": `https://t.me/${getme.username}`,
-            "Author": "https://t.me/zeeoneofc"
+            "Author": "https://t.me/Zurrzxynn"
         })
     })
 }
