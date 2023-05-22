@@ -266,7 +266,7 @@ async function startalpha() {
                 inline_keyboard: [
                     [{
                         text: 'Script',
-                        url: "https://github.com/zeeoneofficial/telebot"
+                        url: "https://github.com/ZurrBot/telebot"
                     }, {
                         text: 'Owner',
                         url: OWNER[0]
@@ -285,7 +285,7 @@ async function startalpha() {
                 inline_keyboard: [
                     [{
                         text: 'Script',
-                        url: "https://github.com/zeeoneofficial/telebot"
+                        url: "https://github.com/ZurrBot/telebot"
                     }, {
                         text: 'Owner',
                         url: OWNER[0]
